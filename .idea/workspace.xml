@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" name="Default" comment="" />
+    <ignored path="code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/stack_queue.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1388625170266" ignored="false" />
+    <file path="/stack.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1390000292532" ignored="false" />
+    <file path="/queue.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1388811913847" ignored="false" />
+    <file path="/Queue.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389381242243" ignored="false" />
+    <file path="/tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1388890544086" ignored="false" />
+    <file path="/test.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391322028259" ignored="false" />
+    <file path="/BinaryHeap.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393261778670" ignored="false" />
+    <file path="/BSF.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389163604787" ignored="false" />
+    <file path="/BST.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389248729811" ignored="false" />
+    <file path="/BinaryTree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395960574345" ignored="false" />
+    <file path="/sort.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389899054475" ignored="false" />
+    <file path="/search.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389386983454" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/pandas_test.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389909379813" ignored="false" />
+    <file path="/pandas_test.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1389909210904" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/tmp_test/git_test.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391041861332" ignored="false" />
+    <file path="/git_test.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391024590986" ignored="false" />
+    <file path="/Dummy.txt" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391721992106" ignored="false" />
+    <file path="/LCS.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393294359681" ignored="false" />
+    <file path="/k-th largest problem.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391371533532" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/test_2.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391406866939" ignored="false" />
+    <file path="/test_2.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391389753500" ignored="false" />
+    <file path="/heap.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391319596418" ignored="false" />
+    <file path="/eight_queen.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391372799486" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/test_3.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391405740375" ignored="false" />
+    <file path="/test_3.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391404960267" ignored="false" />
+    <file path="/eightQueenProblem.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391406489312" ignored="false" />
+    <file path="/graph.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391410281972" ignored="false" />
+    <file path="/dfs_bfs.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391409402989" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/test_1.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391411414196" ignored="false" />
+    <file path="/interviewQuestion.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391411395965" ignored="false" />
+    <file path="/Guess the number.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391488621285" ignored="false" />
+    <file path="/specialStack.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393262936575" ignored="false" />
+    <file path="/lower_upper_question.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391710783334" ignored="false" />
+    <file path="/walk_lefttop_rightbottom.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393263362011" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/Hadoop/mapper.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391722673417" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/Hadoop/reducer.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391722728108" ignored="false" />
+    <file path="/reducer.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391722221135" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/multi_threading/muti_thread.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391723766531" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/multi_threading/__init__.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391723784809" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/multi_threading/assignment_2.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391726939047" ignored="false" />
+    <file path="/assignment_2.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391726869418" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/multi_threading/threading_1.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391725989055" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../STA250/multi_threading/threading_2.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1391726084552" ignored="false" />
+    <file path="/knapsack.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393020736852" ignored="false" />
+    <file path="/findMissingValue.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393261530290" ignored="false" />
+    <file path="/DFS_BFS.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393265472542" ignored="false" />
+    <file path="/shuffle_cards.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393280365281" ignored="false" />
+    <file path="/rod_cutting.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393293950816" ignored="false" />
+    <file path="/B_Tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395895405350" ignored="false" />
+    <file path="/Tri_Tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396038838821" ignored="false" />
+    <file path="/string_to_long.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395963174009" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Jobs/Zillow/Zillow code/tri_tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395963744358" ignored="false" />
+    <file path="/tri_tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395963744358" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Jobs/Zillow/Zillow code/string_to_long.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395963182113" ignored="false" />
+    <file path="/test_print.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396038682870" ignored="false" />
+    <file path="/tic_tac_toe.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396063212682" ignored="false" />
+    <file path="/gmae_of_master_mind.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396132360619" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code$Tri_Tree.coverage" NAME="Tri_Tree Coverage Results" MODIFIED="1395966346483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gmae_of_master_mind.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmae_of_master_mind.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="walk_lefttop_rightbottom.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/walk_lefttop_rightbottom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shuffle_cards.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shuffle_cards.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.6887661">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/knapsack.py" />
+        <option value="$PROJECT_DIR$/findMissingValue.py" />
+        <option value="$PROJECT_DIR$/BinaryHeap.py" />
+        <option value="$PROJECT_DIR$/specialStack.py" />
+        <option value="$PROJECT_DIR$/walk_lefttop_rightbottom.py" />
+        <option value="$PROJECT_DIR$/DFS_BFS.py" />
+        <option value="$PROJECT_DIR$/shuffle_cards.py" />
+        <option value="$PROJECT_DIR$/rod_cutting.py" />
+        <option value="$PROJECT_DIR$/LCS.py" />
+        <option value="$PROJECT_DIR$/B_Tree.py" />
+        <option value="$PROJECT_DIR$/string_to_long.py" />
+        <option value="$PROJECT_DIR$/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/test_print.py" />
+        <option value="$PROJECT_DIR$/Tri_Tree.py" />
+        <option value="$PROJECT_DIR$/tic_tac_toe.py" />
+        <option value="$PROJECT_DIR$/gmae_of_master_mind.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="22" />
+    <option name="width" value="1393" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Jobs/Zillow/Zillow code" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gmae_of_master_mind">
+    <configuration default="false" name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="binary_heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_heap.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_print" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_print.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tic_tac_toe.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gmae_of_master_mind" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gmae_of_master_mind.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tri_Tree" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tri_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="k-th largest problem" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k-th largest problem.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.Tri_Tree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.k-th largest problem" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.binary_heap" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_print" />
+      <item index="5" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
+      <item index="6" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_print" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.binary_heap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" name="Default" comment="" />
+      <created>1388621894691</created>
+      <updated>1388621894691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="22" width="1393" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13437268" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15144767" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" x="645" y="213" width="196" height="496" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43007916" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24670185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32849604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.6728232" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/graph.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/find_missing_value.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lower_upper_question.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lower_upper_question.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/walk_lefttop_rightbottom.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_heap.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/LCS.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BinaryTree.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Tri_Tree.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lower_upper_question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1839" selection-end="1839" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rod_cutting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="341" selection-end="341" vertical-scroll-proportion="0.036247335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_to_long.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="26" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3879668" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_missing_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="165" selection-end="165" vertical-scroll-proportion="0.1630137">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS_BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.45643154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1769" selection-end="1769" vertical-scroll-proportion="0.87966806" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.3326226">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="0" selection-start="4516" selection-end="4728" vertical-scroll-proportion="0.38379532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tri_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="216" selection-end="216" vertical-scroll-proportion="0.13972603">
+          <folding>
+            <element signature="e#289#434#0" expanded="false" />
+            <element signature="e#472#1527#0" expanded="false" />
+            <element signature="e#472#529#1" expanded="false" />
+            <element signature="e#1579#2313#0" expanded="false" />
+            <element signature="e#1579#1675#1" expanded="false" />
+            <element signature="e#2352#2589#0" expanded="false" />
+            <element signature="e#2352#2411#1" expanded="false" />
+            <element signature="e#2639#5077#0" expanded="false" />
+            <element signature="e#2639#2708#1" expanded="false" />
+            <element signature="e#5116#5322#0" expanded="false" />
+            <element signature="e#5116#5153#1" expanded="false" />
+            <element signature="e#5361#5483#0" expanded="false" />
+            <element signature="e#5361#5403#1" expanded="false" />
+            <element signature="e#5523#7017#0" expanded="false" />
+            <element signature="e#5523#5573#1" expanded="false" />
+            <element signature="e#7054#7614#0" expanded="false" />
+            <element signature="e#7054#7105#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="26" selection-start="7023" selection-end="7023" vertical-scroll-proportion="0.2844388" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tic_tac_toe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="32" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.31123388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmae_of_master_mind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walk_lefttop_rightbottom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffle_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.6887661">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
