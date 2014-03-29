@@ -1,57 +1,60 @@
 __author__ = 'changyunglin'
 
-# compute the longest common subsequence of X(1...m) and Y(1...n)
-# this only print out common sub character in this two string
-# they are not suppose to be continuous
+# def longest_common_substring(s1, s2):
+#     m = [[0] * (1 + len(s2)) for _ in xrange(1 + len(s1))]  # build up a matrix
+#     longest, x_longest_index = 0, 0
+#     for x in xrange(1, 1 + len(s1)):
+#         for y in xrange(1, 1 + len(s2)):
+#             if s1[x - 1] == s2[y - 1]:
+#                 m[x][y] = m[x - 1][y - 1] + 1
+#                 if m[x][y] > longest:   # becasue this matrix is not continuous save lingest number,
+#                                         # so needs consider the case that the longest string break, like our case
+#                     longest = m[x][y]
+#                     x_longest_index = x
+#             else:
+#                 m[x][y] = 0
+#     print('x_longest', x_longest_index)
+#     print('longest', longest)
+#     return s1[x_longest_index - longest: x_longest_index], m        # use index to get the string
 
 
-string1 = 'AATCC'
-string2 = 'ACACG'
-
-
-def LCS(X, Y):
-    m = len(X)
-    n = len(Y)
-    # a matrix to store the LCS number
-    C = [[0] * (n+1) for _ in range(m+1)]    # this includes the
-
-    for r in range(1, m+1):
-        for c in range(1, n+1):
-            if X[r-1] == Y[c-1]:
-                C[r][c] = C[r-1][c-1] + 1
+def longest_common_substring(s1, s2):
+    m = [[0] * (len(s2)) for _ in xrange(len(s1))]  # build up a matrix
+    maxsofar, x_longest_index = 0, 0
+    for x in xrange(len(s1)):
+        for y in xrange(len(s2)): 
+            if s1[x] == s2[y]:
+                if x == 0 or y == 0:    # first row and first column
+                    m[x][y] = 1
+                else:   # other cases
+                    m[x][y] = m[x - 1][y - 1] + 1
+                    if m[x][y] > maxsofar:   # becasue this matrix is not continuous save lingest number,
+                                            # so needs consider the case that the longest string break, like our case
+                        maxsofar = m[x][y]
+                        x_longest_index = x     # index to remember where is the longest index right now.
             else:
-                C[r][c] = max(C[r][c-1], C[r-1][c])
-    return C
+                m[x][y] = 0
+    print('x_longest', x_longest_index)
+    print('maxsofar', maxsofar)
+    return s1[x_longest_index - maxsofar+1: x_longest_index+1], m        # use index to get the string
 
 
-def backTrack(C, X, Y, i, j):
-    if i == 0 or j == 0:
-        return ''
-    elif X[i-1] == Y[j-1]:
-        return backTrack(C, X, Y, i-1, j-1) + X[i-1]  # X[i-1]: returns the same element we found
-    else:   #X[i-1] != Y[j-1]:
-        if C[i-1][j] > C[i][j-1]:
-            return backTrack(C, X, Y, i-1, j)
-        else:
-            return backTrack(C, X, Y, i, j-1)
 
+# the good thing about this method is once the matrix is not the same, it save to 0 instead of saving the longest
+# once there are multiply sub-string, you can use the matrix to trace back where are those sub-string
 
-def backAllTrack(C, X, Y, i, j):
-    if i == 0 or j == 0:
-        return set([''])
-    elif X[i-1] == Y[j-1]:
-        return set([Z + X[i-1] for Z in backAllTrack(C, X, Y, i-1, j-1)])
-    else:
-        R = set()
-        if C[i-1][j] >= C[i][j-1]:
-            R.update(backAllTrack(C, X, Y, i-1, j))
-        if C[i-1][j] <= C[i][j-1]:
-            R.update(backAllTrack(C, X, Y, i, j-1))
-        return R
+S1 = 'photograph'
+S2 = 'tomography'
+string, m = longest_common_substring(s1=S1, s2=S2)
+print(string)
+print 'the size of the matrix should be {0} x {1}', len(S1), len(S2)
+for e in m:
+    print(e)
 
-
-C = LCS(string1, string2)
-for e in C:
-    print e
-print "Some LCS: '%s'" % backTrack(C, string1, string2, len(string1), len(string2))
-print "All LCSs: %s" % backAllTrack(C, string1, string2, len(string1), len(string2))
+S1 = 'cabccb'
+S2 = 'babcba'
+string, m = longest_common_substring(s1=S1, s2=S2)
+print(string)
+print 'the size of the matrix should be {0} x {1}', len(S1), len(S2)
+for e in m:
+    print(e)
