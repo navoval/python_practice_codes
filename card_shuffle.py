@@ -4,7 +4,11 @@ __author__ = 'changyunglin'
 # assume we have perfect random generator
 # Our idea is that iterate from 1 to 52 index, create a random number by using random generator as index
 # and swap the number of index pointed to with the first element. Then mark the first as dead, swap with the next one
-
+def Question():
+    '''
+    write a function to perfect shuffle a deck of cards
+    in cracking code Chap-18.2
+    '''
 import random
 
 

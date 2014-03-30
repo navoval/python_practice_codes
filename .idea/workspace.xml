@@ -50,7 +50,7 @@
     <file path="/knapsack.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393020736852" ignored="false" />
     <file path="/findMissingValue.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393261530290" ignored="false" />
     <file path="/DFS_BFS.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393265472542" ignored="false" />
-    <file path="/shuffle_cards.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393280365281" ignored="false" />
+    <file path="/shuffle_cards.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396141545700" ignored="false" />
     <file path="/rod_cutting.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1393293950816" ignored="false" />
     <file path="/B_Tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1395895405350" ignored="false" />
     <file path="/Tri_Tree.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396038838821" ignored="false" />
@@ -61,6 +61,7 @@
     <file path="/test_print.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396038682870" ignored="false" />
     <file path="/tic_tac_toe.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396063212682" ignored="false" />
     <file path="/gmae_of_master_mind.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396132360619" ignored="false" />
+    <file path="/card_shuffle.py" changelist="91d6b44a-1ea1-43cc-bf15-9f656d9f471e" time="1396141585658" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,35 +83,7 @@
     <favorites_list name="code" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gmae_of_master_mind.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmae_of_master_mind.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="walk_lefttop_rightbottom.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/walk_lefttop_rightbottom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shuffle_cards.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shuffle_cards.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.6887661">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -120,13 +93,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/knapsack.py" />
         <option value="$PROJECT_DIR$/findMissingValue.py" />
         <option value="$PROJECT_DIR$/BinaryHeap.py" />
         <option value="$PROJECT_DIR$/specialStack.py" />
         <option value="$PROJECT_DIR$/walk_lefttop_rightbottom.py" />
         <option value="$PROJECT_DIR$/DFS_BFS.py" />
-        <option value="$PROJECT_DIR$/shuffle_cards.py" />
         <option value="$PROJECT_DIR$/rod_cutting.py" />
         <option value="$PROJECT_DIR$/LCS.py" />
         <option value="$PROJECT_DIR$/B_Tree.py" />
@@ -136,6 +107,8 @@
         <option value="$PROJECT_DIR$/Tri_Tree.py" />
         <option value="$PROJECT_DIR$/tic_tac_toe.py" />
         <option value="$PROJECT_DIR$/gmae_of_master_mind.py" />
+        <option value="$PROJECT_DIR$/card_shuffle.py" />
+        <option value="$PROJECT_DIR$/shuffle_cards.py" />
       </list>
     </option>
   </component>
@@ -171,13 +144,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -192,17 +168,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Jobs/Zillow/Zillow code" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -220,7 +197,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gmae_of_master_mind">
+  <component name="RunManager" selected="Python.card_shuffle">
     <configuration default="false" name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,25 +216,6 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="binary_heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="code" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_heap.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -319,6 +277,27 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gmae_of_master_mind.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="card_shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/card_shuffle.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -431,18 +410,18 @@
       <item index="0" class="java.lang.String" itemvalue="Python.Tri_Tree" />
       <item index="1" class="java.lang.String" itemvalue="Python.k-th largest problem" />
       <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.binary_heap" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_print" />
-      <item index="5" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
-      <item index="6" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_print" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
+      <item index="5" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
+      <item index="6" class="java.lang.String" itemvalue="Python.card_shuffle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_print" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.binary_heap" />
+        <item index="0" class="java.lang.String" itemvalue="Python.card_shuffle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.gmae_of_master_mind" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tic_tac_toe" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_print" />
+        <item index="4" class="java.lang.String" itemvalue="Python.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -474,17 +453,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="22" width="1393" height="878" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13437268" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15144767" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" x="645" y="213" width="196" height="496" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15367483" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" x="645" y="213" width="196" height="496" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43007916" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24670185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24670185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -605,22 +584,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="45" />
+      <option name="time" value="46" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lower_upper_question.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1839" selection-end="1839" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/heap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="14" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" />
@@ -643,11 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS_BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.45643154" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/B_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="0" selection-start="1769" selection-end="1769" vertical-scroll-proportion="0.87966806" />
@@ -656,13 +618,6 @@
     <entry file="file://$PROJECT_DIR$/binary_heap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="0" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.3326226">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="4516" selection-end="4728" vertical-scroll-proportion="0.38379532">
           <folding />
         </state>
       </provider>
@@ -699,28 +654,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tic_tac_toe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="32" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.31123388">
+        <state line="60" column="32" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.31123388" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walk_lefttop_rightbottom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="869" selection-end="869" vertical-scroll-proportion="-0.12707183">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmae_of_master_mind.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.09392265" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="0" selection-start="8185" selection-end="8185" vertical-scroll-proportion="0.24677716">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/walk_lefttop_rightbottom.py">
+    <entry file="file://$PROJECT_DIR$/special_stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+        <state line="7" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.21915285">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shuffle_cards.py">
+    <entry file="file://$PROJECT_DIR$/card_shuffle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.6887661">
+        <state line="33" column="21" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.56169426">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS_BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.4567219">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="24" selection-start="4753" selection-end="4753" vertical-scroll-proportion="0.3207547">
           <folding />
         </state>
       </provider>
