@@ -88,7 +88,7 @@
       <file leaf-file-name="interview_questions.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/interview_questions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="167" column="0" selection-start="5240" selection-end="5240" vertical-scroll-proportion="0.50092083">
+            <state line="43" column="7" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.3089431">
               <folding>
                 <element signature="e#83#421#0" expanded="false" />
                 <element signature="e#442#800#0" expanded="false" />
@@ -124,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/BinaryHeap.py" />
         <option value="$PROJECT_DIR$/specialStack.py" />
         <option value="$PROJECT_DIR$/walk_lefttop_rightbottom.py" />
         <option value="$PROJECT_DIR$/DFS_BFS.py" />
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/card_shuffle.py" />
         <option value="$PROJECT_DIR$/shuffle_cards.py" />
         <option value="$PROJECT_DIR$/Q1_find_missing_number.py" />
+        <option value="$PROJECT_DIR$/interview_questions.py" />
       </list>
     </option>
   </component>
@@ -718,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interview_questions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="0" selection-start="5240" selection-end="5240" vertical-scroll-proportion="0.50092083">
+        <state line="43" column="7" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.3089431">
           <folding>
             <element signature="e#83#421#0" expanded="false" />
             <element signature="e#442#800#0" expanded="false" />
