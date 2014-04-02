@@ -197,8 +197,103 @@ def Answer4():
     print(makeHashTable(L).keys())
     print(makeHashTable(L)[0])
 
+def Question5():
+    question = '''
+    Write a program to check if a binary tree is balanced
+    '''
+    background_knowledge = '''
+    DEFINE balanced tree. Normally, 一般的二元搜尋樹的查詢複雜度是跟目標結點到樹根的距離（即深度）有關，
+    因此當結點的深度普遍較大時，查詢的均攤複雜度會上升，為了更高效的查詢，平衡樹應運而生了。
+    在這裡，平衡指所有葉子的深度趨於平衡，更廣義的是指在樹上所有可能查找的均攤複雜度偏低。
+    對一棵查找樹（search tree）進行查詢/新增/刪除 等動作, 所花的時間與樹的高度 h 成比例, 並不與樹的容量 n 成比例。
+    如果可以讓樹維持矮矮胖胖的好身材, 也就是讓h維持在O(lg n)左右, 完成上述工作就很省時間。
+    detail explaination about AVL Tree is here: http://interactivepython.org/courselib/static/pythonds/Trees/balanced.html
+    balanceFactor=height(leftSubTree)−height(rightSubTree)
+    balanceFactor = -1, 0 ,1
+    '''
+    solution_idea = '''use balanceFactor to decide the balanced Tree'''
+
+def Answer5():
+    '''
+    See Binary Tree file for implementation. The check balance function can be written as
+    '''
+    def checkBalance(self):
+        if self.left == None and self.right == None: return self
+        lh = self.left.height if self.left != None else 0
+        rh = self.right.height if self.right != None else 0
+
+        return True if lh-rh < 1 or rh - lh > 1 else False
+
+def Question6():
+    '''
+    from: http://www.careercup.com/question?id=6220229872975872
+    '''
+    question = '''Input : A Perl program file
+    We need to modify the file to have a max of 80 characters per line and create a new perl file.
+    Problem is we need to use "/" wherever we split the line and also,
+    the split MUST happen at a place with white space. (ASSUMPTION - No is >75 characters)
+    '''
+    solution_idea = '''Use the split
+    '''
+
+def Answer6():
+
+    def splitLine(line, MAX_LIMIT):
+        while len(line) > MAX_LIMIT:
+            # split line into words
+            words = line.split(" ")
+            count = 0
+            index = 0
+
+            # find the maximum "index" we can afford
+            for i in range(0, len(words)):
+                count = count + len(words[i]) + 1
+                if count >= MAX_LIMIT:
+                    break
+                index += 1
+
+            # combines words upto "index" back
+            newline = " ".join(words[:index + 1])
+
+            # find the leftover line
+            left = words[index + 1:]
+            line = " ".join(left)
+
+            # is this the last chunk for this line?
+            if left:
+                yield newline + '/'
+            else:
+                yield newline
+
+        if line:  # stop returning empty string
+            yield line
+
+    # Questions about this problem. Why is this question about? Why can't we just replace the ' ' with '/ ', then split(' ')
+    s = 'ste jij, abhe:jie'
+    print s.replace(' ', '/ ').split(' ')    # you can setup the maximum split number
+
+def Question7():
+    question = ''' Write code to generate all possible case combinations of a given lower-cased string. (e.g.
+                    "0ab" -> ["0ab", "0aB", "0Ab", "0AB"]) '''
+    solution_idea = '''Use DP to solve this permutation problem. For DP, always think about basic case and general case,
+    for this problem, the base case is print out result. Use break or return to end the for loop '''
+
+def Answer7():
+    def permuteWord(prefix, word):
+        if len(word) == 0:
+            print(prefix)
+        for i in range(len(word)):
+            if word[i].isalpha():
+                permuteWord(prefix + word[:i] + word[i].upper(), word[i+1:])
+                permuteWord(prefix + word[:i] + word[i].lower(), word[i+1:])
+                return
+
+
+    string = "0ab5D"
+    permuteWord('', string)
 
 # Answer1()
 # Answer2()
 # Answer3()
 # Answer4()
+Answer7()

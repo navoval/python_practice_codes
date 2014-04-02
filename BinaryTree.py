@@ -1,13 +1,11 @@
 __author__ = 'changyunglin'
 # coding=UTF-8
 
-'''
+source = '''from: http://www.laurentluce.com/posts/binary-search-tree-library-in-python/'''
 
-# from: http://www.laurentluce.com/posts/binary-search-tree-library-in-python/
-'''
 class Node:
 
-    def __init__(self, data):
+    def __init__(self, data=None):
         '''
         Node constructor
         @param data: node data object
@@ -15,6 +13,7 @@ class Node:
         self.left = None
         self.right = None
         self.data = data
+        self.height = 0
 
     def __repr__(self):
         return "Node with Data: %d" % self.data
@@ -34,6 +33,8 @@ class Node:
                 self.right = Node(data)
             else:
                 self.right.insert(data)
+        # assign the height when do the insertion by using determined_height function
+        self.determine_height()
 
     def lookup(self, data, parent=None):
         '''
@@ -139,19 +140,61 @@ class Node:
             self.right.print_tree()
         # tree traversal
 
+    def determine_height(self):
+        # use DP to decide the left and right child's height
+        # this determine_height is assign leaf as 0, and + 1 with the node who have one leaf. and continue
+        count_l = (self.left.determine_height()+1 if self.left != None else 0)
+        count_r = (self.right.determine_height()+1 if self.right != None else 0)
+        self.height = (count_l if count_l > count_r else count_r)
+
+        return self.height
+
+    def checkBalance(self):
+        if self.left == None and self.right == None:
+            return self
+
+        # if self.left != None:
+        #     lh = self.left.height
+        # else:
+        #     lh = 0
+        #
+        # if self.right != None:
+        #     rh = self.right.height
+        # else:
+        #     rh = 0
+
+        # this code can be rewrite as
+        lh = self.left.height if self.left != None else 0
+        rh = self.right.height if self.right != None else 0
+
+        # if lh + 1 < rh or rh + 1 < lh:     # abs(lh - rh) > 1
+        #     # print('lh: ', lh)
+        #     # print('rh: ', rh)
+        #     return False
+        # else:
+        #     # print('lh: ', lh)
+        #     # print('rh: ', rh)
+        #     return True
+
+        return True if lh + 1 < rh or rh + 1 < lh else False
+
+
+        # return self
 
 
 
 
 root = Node(8)
-l = [3, 10, 1, 6, 4, 7, 14, 13, 21]
+l = [3, 10, 1, 6, 4, 7, 13, 14, 21]
 [root.insert(e) for e in l]
 
 root.print_tree()
-print
 
-root.delete(10)
-root.print_tree()
+print
+#
+# root.delete(10)
+# root.print_tree()
+print root.checkBalance()
 #
 # root.delete(3)
 # root.print_tree()
